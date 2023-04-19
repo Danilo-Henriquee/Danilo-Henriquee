@@ -1,7 +1,7 @@
 ### Hi there
 
 - 🔍 Currently looking for a job.
-- 📚 Studying Python, Java, JavaScript.
+- 📚 Studying React, TypeScript and java.
 
 <div align="center">
   <a href="https://github.com/Novitchh">
