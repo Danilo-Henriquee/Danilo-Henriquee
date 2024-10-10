@@ -1,8 +1,5 @@
 ### Hi there
 
-- 🔍 Currently working on an ERP system made in PHP.
-- 📚 Doing some stuff in Java.
-
 <div align="center">
   <a href="https://github.com/Novitchh">
 </div>
